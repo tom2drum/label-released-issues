@@ -1,6 +1,9 @@
 name: Label released issues
 description: Automatically labels issues that have been released recently.
 author: Vasilii Goriunov aka. Tom
+branding:
+  icon: award
+  color: blue
 inputs:
   milliseconds:
     required: true
